@@ -36,5 +36,5 @@ extended by RPC requests from modules connected to it.
 * Modular
 
 Xtensis should be as modular as possible, to keep the core size down,
-and to allow **maximum flexibility*.
+and to allow *maximum flexibility*.
 
