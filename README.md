@@ -1,11 +1,11 @@
 <h1 align="center">
-<a href="https://github.com/xtensis-editor/xtensis-core">
+<a href="https://github.com/xtensis-editor/xtensis">
 <img src="media/logos/PNG/xtensis-256.png" alt="Xtensis Editor" width="256" height="256"/>
 /a><br>
-<a href="https://github.com/xtensis-editor/xtensis-core">Xtensis Editor</a>
+<a href="https://github.com/xtensis-editor/xtensis">Xtensis Editor</a>
 </h1>
 
-<h4 align="center">Extendable editing: ignore the rules.</h4>
+<h4 align="center">Extendable editing: defy the norm.</h4>
 
 # The Xtensis Project
 
