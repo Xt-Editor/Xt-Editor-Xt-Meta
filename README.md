@@ -11,13 +11,30 @@
 
 ## Core goals
 
+* Minimal
+
+It is aimed to keep Xtensis as MINIMAL as possible. That is to say, no
+bullshit. We don't want games like Tetris in Xtensis Core, but if
+users _want_ to have Tetris in their _own individual_ setup, then they
+should be subjected to very little opposition to that. Tetris is a fun
+game, but there's NO reason to keep it in Xtensis Core.
+
 * Extendable
 
-One of Xtensis' core goals is to be as extendable as possible, in a
+One of Xtensis's core goals is to be as extendable as possible, in a
 similar manner to GNU Emacs. Emacs is good for extensions, but is
-limited by only *one* language - Emacs LISP. Xtensis works around this
-by defining a JSON-RPC structure in the core system, which is
-_essentially_ the basis of Xtensis. Xtensis is pretty much a JSON-RPC
-system, with modular addons to the core.
+limited by only *one* language - Emacs LISP. 
 
-* Minimal
+Xtensis works around this defining a small, extendable JSON-RPC server
+in the core, and accepting requests from many XTCAPI (Xtensis Core
+API) libraries, such as ones written in Python, Lua or even GNU
+Guile!
+
+At its core, Xtensis is merely a JSON-RPC server which is easily
+extended by RPC requests from modules connected to it. 
+
+* Modular
+
+Xtensis should be as modular as possible, to keep the core size down,
+and to allow **maximum flexibility*.
+
