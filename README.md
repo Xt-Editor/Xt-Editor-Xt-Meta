@@ -38,3 +38,8 @@ extended by RPC requests from modules connected to it.
 Xtensis should be as modular as possible, to keep the core size down,
 and to allow *maximum flexibility*.
 
+## History
+
+Xtensis started life as `slacs`, and those who followed its progress
+in those times will remember it in those infancy stages, and while I
+(@shymega) was developing my ideas further and in new directions.
