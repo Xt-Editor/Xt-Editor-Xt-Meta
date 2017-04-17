@@ -1,7 +1,7 @@
 <h1 align="center">
 <a href="https://github.com/xtensis-editor/xtensis">
 <img src="media/logos/PNG/xtensis-256.png" alt="Xtensis Editor" width="256" height="256"/>
-/a><br>
+</a><br>
 <a href="https://github.com/xtensis-editor/xtensis">Xtensis Editor</a>
 </h1>
 
