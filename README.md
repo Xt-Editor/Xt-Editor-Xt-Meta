@@ -50,3 +50,9 @@ and to allow *maximum flexibility*.
 To install Xtensis, follow [these][xtensis-install] instructions to
 install it. Thanks for trying Xtensis out! ^-^
 
+## Contributing
+
+If you want to contribute to Xtensis, XOR the projects that are a part
+of it, feel free to contact me on IRC, and we can discuss ideas. I can
+be found on Freenode, on #xtensis-editor.
+
