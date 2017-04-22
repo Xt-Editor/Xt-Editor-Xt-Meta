@@ -44,3 +44,9 @@ extended by RPC requests from modules connected to it.
 Xtensis should be as modular as possible, to keep the core size down,
 and to allow *maximum flexibility*.
 
+
+## Installing
+
+To install Xtensis, follow [these][xtensis-install] instructions to
+install it. Thanks for trying Xtensis out! ^-^
+
