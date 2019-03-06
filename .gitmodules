@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/xt-editor/xt-core.git
+[submodule "frontends/xt-gtk"]
+	path = frontends/xt-gtk
+	url = https://github.com/xt-editor/xt-gtk.git
+[submodule "frontends/xt-term"]
+	path = frontends/xt-term
+	url = https://github.com/xt-editor/xt-term.git
